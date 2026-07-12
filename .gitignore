@@ -1,0 +1,25 @@
+# Altium generated/temp files
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.Dat
+*.LOG
+*.log
+*.bak
+*.orig
+*.rej
+*.~*
+*.$$$
+*.BomDoc
+
+# Altium generated folders
+Project Outputs*/
+History/
+__Previews/
+Generated*/
+Generated (Gerber)*/
+Generated (NC Drill)/
+
+# OS junk
+.DS_Store
+Thumbs.db

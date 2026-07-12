@@ -1,0 +1,20 @@
+* text=auto
+
+# Altium design files
+*.SchDoc binary
+*.PcbDoc binary
+*.SchLib binary
+*.PcbLib binary
+*.IntLib binary
+*.PrjPCB text eol=crlf
+*.PrjPcb text eol=crlf
+*.OutJob text eol=crlf
+
+# Mechanical / release files
+*.step binary
+*.stp binary
+*.zip binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
