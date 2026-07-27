@@ -1,4 +1,4 @@
-﻿# Electronic Hourglass
+﻿# Electronic Volumetric Display
 
 This is a hand-held persistence-of-vision display built around the STM32WB55 microcontroller. It works by spinning a vertical RGB LED array fast enough to create three-dimensional images in space. The device will include a sensor suite for orientation sensing or viewer positioning and control.
 
