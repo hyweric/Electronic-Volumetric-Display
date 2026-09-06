@@ -34,13 +34,13 @@ Const
 
     {================ GRID SETTINGS =================}
 
-    PitchXMM  = 5.00;
-    PitchZMM  = 5.00;
+    PitchXMM  = 2.80;
+    PitchZMM  = 2.80;
 
     { X0/Z0 location relative to PCB document origin }
 
-    OriginXMM = 100.00;
-    OriginYMM = 100.00;
+    OriginXMM = 180.00;
+    OriginYMM = 180.00;
 
 
     {================ MATRIX SIZE =================}
